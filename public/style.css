@@ -1,0 +1,45 @@
+body{
+    margin-left:300px;
+    margin-right:300px;
+    width:50%;
+}
+.chats{
+    background-color: rgb(199, 255, 255);
+    padding:20px;
+    border-radius: 20px;
+    border:black solid 1px;
+   
+}
+.msg{
+    background-color: rgb(135, 230, 235);
+    padding: 15px;
+    border-radius: 10px;
+    font-weight:900;
+}
+.header{
+    background-color: rgb(199, 255, 255);
+    font-style: italic;
+    text-align: center;
+    border-radius: 10px;
+}
+button{
+    background-color: rgb(167, 221, 223);
+    border-radius: 5px;
+    font-size: 20px;
+}
+input{
+    background-color: rgb(230, 253, 254);
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight:900;
+}
+textarea{
+    background-color: rgb(230, 253, 254);
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight:900;
+}
+.btn{
+    font-size: 13px;
+    background-color: aliceblue;
+}
